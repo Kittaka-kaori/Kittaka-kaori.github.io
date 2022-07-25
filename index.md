@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kittaka-san no GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Kittaka-kaori/Kittaka-kaori.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
